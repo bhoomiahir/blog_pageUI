@@ -7,6 +7,10 @@ Mind Diary is a general blog webpage created using HTML and CSS. It presents art
 - Sidebar with categories and recent posts
 - Styled footer with branding
 - Clean UI using CSS Grid and Flexbox
+## Homepage
+![Homepage](home.png)
+![blog page](blog.png)
+![footer page](footer.png)
 ## Technologies Used 
 - HTML5
 - CSS3
